@@ -38,6 +38,6 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
-<p align="center">
+
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/dark.svg?uid=001111.ebbad73246f947088924ee65c400d5fb.1839)](https://github.com/rayriffy/apple-music-github-profile)
-</p>
+
