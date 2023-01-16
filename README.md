@@ -33,6 +33,12 @@ Determined to master the language, Apiphoom spent countless hours learning and e
 
 To his surprise and delight, he was once again awarded the [Apple WWDC Scholarship Swift Student Challenge in 2022](https://www.techoffside.com/2022/06/apple-wwdc22-swift-student-challenge/). This made him the first Thai to receive the award two years in a row, and the only Thai to receive the award twice.
 
+# Api's Awards
+ [Apple WWDC Scholarship Swift Student Challenge 2021](https://www.flashfly.net/wp/345856) Winner
+ [Apple WWDC Scholarship Swift Student Challenge 2022](https://www.techoffside.com/2022/06/apple-wwdc22-swift-student-challenge/) Winner
+🇹🇭 National Software Contest - NSC Thailand 1st Winner from work [MeetLody](https://apps.apple.com/th/app/meetlody/id1604416169)
+🇨🇭 47th International Exhibition Of Inventions Of Geneva - Bronze Medal & Best Innovation Award
+
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
