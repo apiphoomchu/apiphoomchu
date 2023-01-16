@@ -45,8 +45,8 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 
 ## Api's & Team Swift Coding Club
 -  [Swift Coding Club Thailand K12 Level](https://www.openmirai.com/special-mirai/6242a2184df7ce70e9ab6158) (Founders, Club President, Instructor)
--  [Swift Coding Club Basic Thailand K12 Level] (Sub org from Swift Coding Club Thailand K12 Level)
--  [Swift Coding Club ADVANCE Thailand K12 Level] (Sub org from Swift Coding Club Thailand K12 Level)
+-  Swift Coding Club Basic Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
+-  Swift Coding Club ADVANCE Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
