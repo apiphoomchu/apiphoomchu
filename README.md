@@ -36,7 +36,7 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 ## Api's Awards
 -  [Apple WWDC Scholarship Swift Student Challenge 2021](https://www.flashfly.net/wp/345856) Winner
 -  [Apple WWDC Scholarship Swift Student Challenge 2022](https://www.techoffside.com/2022/06/apple-wwdc22-swift-student-challenge/) Winner
-- 🇹🇭 National Software Contest - NSC Thailand 1st Winner from work [MeetLody](https://apps.apple.com/th/app/meetlody/id1604416169)
+- 🇹🇭 National Software Contest - NSC Thailand 1st Winner from [MeetLody](https://apps.apple.com/th/app/meetlody/id1604416169)
 - 🇨🇭 47th International Exhibition Of Inventions Of Geneva - Bronze Medal & Best Innovation Award
 
 ## Api's & Team Start-up
