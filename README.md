@@ -48,6 +48,9 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 -  Swift Coding Club Basic Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
 -  Swift Coding Club ADVANCE Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
 
+## Anime & Character that Api Love
+I absolutely adore Lycoris Recoil, especially Chisato Nishikigi's lovely personality. The Angel Next Door Spoil Me Rotten is another favorite of mine, with Mahiru Shiina's kind and gentle demeanor winning me over completely. Check them out for yourself and experience the same joy and love that I have found.
+
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
