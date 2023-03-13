@@ -27,7 +27,7 @@ Also, a fast learner and generalist who can develop multiple things like
   Computer vision programs using [OpenCV & TensorFlow](https://opencv.org/).
 
 ## Api's Swift Journey
-Apiphoom was a young(18) programmer from Thailand 🇹🇭 who had a passion for coding. He had been programming for several years, but his true love was the [Swift programming language](https://developer.apple.com/swift/). He was fascinated by its simplicity and elegance, and he spent hours every day experimenting with new code and learning new features.
+Apiphoom was a young(18) programmer from Thailand 🇹🇭 who had a passion for coding. He had been programming for several(2-3) years, but his true love was the [Swift programming language](https://developer.apple.com/swift/). He was fascinated by its simplicity and elegance, and he spent hours every day experimenting with new code and learning new features.
 
 Determined to master the language, Apiphoom spent countless hours learning and experimenting with Swift. His hard work paid off when he was awarded the [Apple WWDC Scholarship Swift Student Challenge in 2021](https://www.flashfly.net/wp/345856). Overjoyed, Apiphoom redoubled his efforts and continued to improve his skills.
 
