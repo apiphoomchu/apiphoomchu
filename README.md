@@ -49,7 +49,7 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 -  Swift Coding Club ADVANCE Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
 
 ## Anime & Character that Api Love
-I absolutely adore [Lycoris Recoil](https://lycoris-recoil.fandom.com/wiki/Lycoris_Recoil_Wiki), especially [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) & Takina Inoue(https://lycoris-recoil.fandom.com/wiki/Takina_Inoue)'s lovely personality. [The Angel Next Door Spoil Me Rotten](https://otonari-no-tenshi.fandom.com/wiki/The_Angel_Next_Door_Spoils_Me_Rotten) is another favorite of mine, with [Mahiru Shiina](https://otonari-no-tenshi.fandom.com/wiki/Mahiru_Shiina)'s kind and gentle demeanor winning me over completely. Check them out for yourself and experience the same joy and love that I have found.
+I absolutely adore [Lycoris Recoil](https://lycoris-recoil.fandom.com/wiki/Lycoris_Recoil_Wiki), especially [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) & [Takina Inoue](https://lycoris-recoil.fandom.com/wiki/Takina_Inoue)'s lovely personality. [The Angel Next Door Spoil Me Rotten](https://otonari-no-tenshi.fandom.com/wiki/The_Angel_Next_Door_Spoils_Me_Rotten) is another favorite of mine, with [Mahiru Shiina](https://otonari-no-tenshi.fandom.com/wiki/Mahiru_Shiina)'s kind and gentle demeanor winning me over completely. Check them out for yourself and experience the same joy and love that I have found.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
