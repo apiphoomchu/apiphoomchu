@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/apiphoomchu/apiphoomchu/main/miku.png" width="200"/>
 </p>
 <h1 align="center">Apiphoom Chuenchompoo</h1>
- Apple Certified Trainer - App Development with Swift
+<a align="center"> Apple Certified Trainer - App Development with Swift</a>
 <p align="center">
   <a href="apiphoom23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail"/>
