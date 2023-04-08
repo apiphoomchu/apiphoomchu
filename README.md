@@ -10,12 +10,13 @@
   <a href="http://discordapp.com/users/639835744004866049">
     <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5"/>
   </a>
+  <br/>
   <a href="https://th.linkedin.com/in/apiphoom-chuenchompoo-3321301a4">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
   </a>
 </p>
-<br/>
 
+<br/>
 
 A [Swift](https://developer.apple.com/swift/) enthusiast who is experienced with building and optimizing native apps on
   [iOS](https://www.apple.com/ios/),
