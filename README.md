@@ -1,5 +1,4 @@
-![Genshin Impact GIF](https://tenor.com/en-GB/view/genshin-genshin-impact-furina-focalors-gif-10369577268651150276)
-
+![genshin-genshin-impact](https://github.com/apiphoomchu/apiphoomchu/assets/48949523/02518d77-03a7-47a3-83b9-59c2532b6bb9)
 <h1 align="center">Apiphoom Chuenchompoo</h1>
 <p align="center"> Apple Certified Trainer - App Development with Swift</p>
 <p align="center">
