@@ -1,6 +1,6 @@
 <p align="center">
   
- <img src="https://github.com/apiphoomchu/apiphoomchu/assets/48949523/02518d77-03a7-47a3-83b9-59c2532b6bb9" width="600"/>
+ <img src="https://github.com/apiphoomchu/apiphoomchu/assets/48949523/02518d77-03a7-47a3-83b9-59c2532b6bb9" width="500"/>
 
 
 </p>
