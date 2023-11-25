@@ -1,9 +1,5 @@
 <p align="center">
-<div class="tenor-gif-embed" data-postid="10369577268651150276" data-share-method="host" data-aspect-ratio="1.91538" data-width="100%">
-  <a href="https://tenor.com/view/genshin-genshin-impact-furina-focalors-gif-10369577268651150276">Genshin Genshin Impact GIF</a>from 
-  <a href="https://tenor.com/search/genshin-gifs">Genshin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
-    
-  </script>
+ <img src="https://raw.githubusercontent.com/apiphoomchu/apiphoomchu/main/miku.png](https://tenor.com/en-GB/view/genshin-genshin-impact-furina-focalors-gif-10369577268651150276" width="200"/>
 </p>
 <h1 align="center">Apiphoom Chuenchompoo</h1>
 <p align="center"> Apple Certified Trainer - App Development with Swift</p>
