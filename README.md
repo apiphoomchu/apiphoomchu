@@ -7,7 +7,7 @@
 Picture credit: [Mesmerizer / Hatsune Miku＆Kasane Teto](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) - 32Ki
 
 <h1 align="center">Apiphoom Chuenchompoo</h1>
-<p align="center"> Apple Certified Trainer - App Development with Swift</p>
+<p align="center"> Apple Certified Trainer - App Development with Swift and Professional Sleeper (Pls. Don't wake me) 💤</p>
 <p align="center">
   <a href="apiphoom23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail"/>
