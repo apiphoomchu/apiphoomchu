@@ -4,7 +4,7 @@
 
 </p>
 
-Picture credit: [Mesmerizer](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) / Hatsune Miku＆Kasane Teto - 32Ki
+Picture credit: [Mesmerizer / Hatsune Miku＆Kasane Teto](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) - 32Ki
 
 <h1 align="center">Apiphoom Chuenchompoo</h1>
 <p align="center"> Apple Certified Trainer - App Development with Swift</p>
