@@ -3,7 +3,6 @@
 ![Mesmerizer](https://github.com/apiphoomchu/apiphoomchu/assets/48949523/09772b0e-b7e5-4e19-879c-f88f0b4d66b0)
 
 </p>
-Picture credit: [Mesmerizer](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) / Hatsune Miku＆Kasane Teto - 32Ki
 <h1 align="center">Apiphoom Chuenchompoo</h1>
 <p align="center"> Apple Certified Trainer - App Development with Swift</p>
 <p align="center">
@@ -20,7 +19,7 @@ Picture credit: [Mesmerizer](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) /
 </p>
 
 <br/>
-
+Picture credit: [Mesmerizer](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) / Hatsune Miku＆Kasane Teto - 32Ki
 A [Swift](https://developer.apple.com/swift/) enthusiast who is experienced with building and optimizing native apps on
   [iOS](https://www.apple.com/ios/),
   [iPadOS](https://www.apple.com/ipados/),
