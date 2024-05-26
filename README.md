@@ -1,7 +1,6 @@
 <p align="center">
   
-![Group 623](https://user-images.githubusercontent.com/48949523/236689032-d8d9c831-aa72-4b92-be23-53be6bca3761.png)
-
+![Mesmerizer](https://github.com/apiphoomchu/apiphoomchu/assets/48949523/09772b0e-b7e5-4e19-879c-f88f0b4d66b0)
 
 </p>
 <h1 align="center">Apiphoom Chuenchompoo</h1>
