@@ -1,6 +1,8 @@
 <p align="center">
   
 ![Mesmerizer](https://github.com/apiphoomchu/apiphoomchu/assets/48949523/09772b0e-b7e5-4e19-879c-f88f0b4d66b0)
+Picture credit: [Mesmerizer / Hatsune Miku＆Kasane Teto]("https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ") - 32Ki
+
 
 </p>
 <h1 align="center">Apiphoom Chuenchompoo</h1>
