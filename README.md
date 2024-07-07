@@ -51,9 +51,7 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 - [OpenMirai Corporation](https://www.openmirai.com) (Under API Development Corporation super vision) (Co-Founders & Chief Executive Officer)
 
 ## Api's & Team Swift Coding Club
--  [Swift Coding Club Thailand K12 Level](https://www.openmirai.com/special-mirai/6242a2184df7ce70e9ab6158) (Founders, Club President, Instructor)
--  Swift Coding Club Basic Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
--  Swift Coding Club ADVANCE Thailand K12 Level (Sub org from Swift Coding Club Thailand K12 Level)
+-  Swift Coding Club Basic Thailand
 
 ## Anime & Character that Api Love
 I absolutely adore [Lycoris Recoil](https://lycoris-recoil.fandom.com/wiki/Lycoris_Recoil_Wiki), especially [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) & [Takina Inoue](https://lycoris-recoil.fandom.com/wiki/Takina_Inoue)'s lovely personality. [The Angel Next Door Spoil Me Rotten](https://otonari-no-tenshi.fandom.com/wiki/The_Angel_Next_Door_Spoils_Me_Rotten) is another favorite of mine, with [Mahiru Shiina](https://otonari-no-tenshi.fandom.com/wiki/Mahiru_Shiina)'s kind and gentle demeanor winning me over completely. Check them out for yourself and experience the same joy and love that I have found.
