@@ -44,6 +44,7 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 -  [Apple WWDC Scholarship Swift Student Challenge 2022](https://www.techoffside.com/2022/06/apple-wwdc22-swift-student-challenge/) Winner
 -  [Apple WWDC Scholarship Swift Student Challenge 2021](https://www.flashfly.net/wp/345856) Winner
 - 🇹🇭 [National Software Contest 2021](https://www.nectec.or.th/social/social-program/nation-software-contest-nsc.html) - NSC Thailand 1st Winner from [MeetLody](https://apps.apple.com/th/app/meetlody/id1604416169)
+- 🇹🇭 [National Software Contest 2024](https://www.nectec.or.th/social/social-program/nation-software-contest-nsc.html) - NSC Thailand 2nd Winner from Alpaca
 - 🇨🇭 [47th International Exhibition Of Inventions Of Geneva](https://inventions-geneva.ch/en/home/) - Bronze Medal & Best Innovation Award
 
 ## Api's & Team Start-up
