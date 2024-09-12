@@ -1,10 +1,9 @@
 <p align="center">
   
-![Mesmerizer](https://github.com/apiphoomchu/apiphoomchu/assets/48949523/09772b0e-b7e5-4e19-879c-f88f0b4d66b0)
+![240317_HiEd-StudentProfile-Phoom-Bangkok_CR_003780_f](https://github.com/user-attachments/assets/590ec774-3772-45d2-a2e5-7738b8b87d1f)
 
 </p>
 
-Picture credit: [Mesmerizer / Hatsune Miku＆Kasane Teto](https://youtu.be/19y8YTbvri8?si=Dg7uJmzjB-eaiZoJ) - 32Ki
 
 <h1 align="center">Apiphoom Chuenchompoo</h1>
 <p align="center"> Apple Certified Trainer - App Development with Swift and Professional Sleeper (Pls. Don't wake me) 💤</p>
