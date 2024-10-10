@@ -31,13 +31,6 @@ Also, a fast learner and generalist who can develop multiple things like
   Deep learning using [TensorFlow](https://www.tensorflow.org),
   Computer vision programs using [OpenCV & TensorFlow](https://opencv.org/).
 
-## Api's Swift Journey
-Apiphoom was a young(18) programmer from Thailand 🇹🇭 who had a passion for coding. He had been programming for several(2-3) years, but his true love was the [Swift programming language](https://developer.apple.com/swift/). He was fascinated by its simplicity and elegance, and he spent hours every day experimenting with new code and learning new features.
-
-Determined to master the language, Apiphoom spent countless hours learning and experimenting with Swift. His hard work paid off when he was awarded the [Apple WWDC Scholarship Swift Student Challenge in 2021](https://www.flashfly.net/wp/345856). Overjoyed, Apiphoom redoubled his efforts and continued to improve his skills.
-
-To his surprise and delight, he was once again awarded the [Apple WWDC Scholarship Swift Student Challenge in 2022](https://www.techoffside.com/2022/06/apple-wwdc22-swift-student-challenge/). This made him the first Thai to receive the award two years in a row, and the only Thai to receive the award twice.
-
 ## Api's Innovation Awards
 -  [Apple WWDC Scholarship Swift Student Challenge 2024](https://www.wwdcscholars.com/s/C3E0D489-7337-4920-8C08-281FD8CCA3A3/2024) Distinguished Winner
 -  [Apple WWDC Scholarship Swift Student Challenge 2022](https://www.techoffside.com/2022/06/apple-wwdc22-swift-student-challenge/) Winner
@@ -51,7 +44,7 @@ To his surprise and delight, he was once again awarded the [Apple WWDC Scholarsh
 - [OpenMirai Corporation](https://www.openmirai.com) (Under API Development Corporation super vision) (Co-Founders & Chief Executive Officer)
 
 ## Api's & Team Swift Coding Club
--  Swift Coding Club Basic Thailand
+- Swift Coding Club Thailand
 
 ## Anime & Character that Api Love
 I absolutely adore [Lycoris Recoil](https://lycoris-recoil.fandom.com/wiki/Lycoris_Recoil_Wiki), especially [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) & [Takina Inoue](https://lycoris-recoil.fandom.com/wiki/Takina_Inoue)'s lovely personality. [The Angel Next Door Spoil Me Rotten](https://otonari-no-tenshi.fandom.com/wiki/The_Angel_Next_Door_Spoils_Me_Rotten) is another favorite of mine, with [Mahiru Shiina](https://otonari-no-tenshi.fandom.com/wiki/Mahiru_Shiina)'s kind and gentle demeanor winning me over completely. Check them out for yourself and experience the same joy and love that I have found.
