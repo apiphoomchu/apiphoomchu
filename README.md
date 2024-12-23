@@ -27,10 +27,6 @@ A [Swift](https://developer.apple.com/swift/) enthusiast who is experienced with
   [iOS](https://www.apple.com/ios/),
   [iPadOS](https://www.apple.com/ipados/),
   [macOS](https://www.apple.com/macos).
-Also, a fast learner and generalist who can develop multiple things like
-  Natural language processing using [Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)),
-  Deep learning using [TensorFlow](https://www.tensorflow.org),
-  Computer vision programs using [OpenCV & TensorFlow](https://opencv.org/).
 
 ## Api's Innovation Awards
 -  [Apple WWDC Scholarship Swift Student Challenge 2024](https://www.wwdcscholars.com/s/C3E0D489-7337-4920-8C08-281FD8CCA3A3/2024) Distinguished Winner
