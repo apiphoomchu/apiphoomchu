@@ -6,7 +6,6 @@
 
 
 <h1 align="center">Apiphoom Chuenchompoo</h1>
-<h2 align="center">SwiftUI is Apple’s way of saying: 'We don’t know what UIKit did, but it wasn’t this.'</h2>
 <p align="center"> Apple Certified Trainer - App Development with Swift and Professional Sleeper (Pls. Don't wake me) 💤</p>
 <p align="center">
   <a href="apiphoom23@gmail.com">
