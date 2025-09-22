@@ -3,7 +3,6 @@
 ![240317_HiEd-StudentProfile-Phoom-Bangkok_CR_003780_f](https://github.com/user-attachments/assets/590ec774-3772-45d2-a2e5-7738b8b87d1f)
 
 </p>
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001111.ebbad73246f947088924ee65c400d5fb.1839)](https://music-profile.rayriffy.com)
 
 <h1 align="center">Apiphoom Chuenchompoo</h1>
 <p align="center"> Apple Certified Trainer - App Development with Swift and Professional Sleeper (Pls. Don't wake me) 💤</p>
